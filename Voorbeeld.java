@@ -1,1 +1,3 @@
-class Voorbeeld{}
+class Voorbeeld{
+	System.out.println("Het werkt");
+}
